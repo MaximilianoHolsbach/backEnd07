@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "TONER MP301",
+    "photo": "https://png.pngtree.com/png-vector/20190321/ourlarge/pngtree-vector-users-icon-png-image_856952.jpg",
+    "price": 10,
+    "stock": 50
+  },
+  {
+    "id": 2,
+    "title": "TONER MP402",
+    "photo": "https://png.pngtree.com/png-vector/20190321/ourlarge/pngtree-vector-users-icon-png-image_856952.jpg",
+    "price": 30,
+    "stock": 50
+  },
+  {
+    "id": 4,
+    "title": "TONER MP305",
+    "photo": "https://png.pngtree.com/png-vector/20190321/ourlarge/pngtree-vector-users-icon-png-image_856952.jpg",
+    "price": 70,
+    "stock": 50
+  },
+  {
+    "id": 5,
+    "title": "TONER PRO8100",
+    "photo": "https://png.pngtree.com/png-vector/20190321/ourlarge/pngtree-vector-users-icon-png-image_856952.jpg",
+    "price": 1000,
+    "stock": 50
+  }
+]

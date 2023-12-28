@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Andres",
+    "photo": "https://png.pngtree.com/png-vector/20190321/ourlarge/pngtree-vector-users-icon-png-image_856952.jpg",
+    "email": "andres@gamil.com"
+  },
+  {
+    "id": 2,
+    "name": "Lucia",
+    "photo": "https://png.pngtree.com/png-vector/20190321/ourlarge/pngtree-vector-users-icon-png-image_856952.jpg",
+    "email": "Lucia@gamil.com"
+  },
+  {
+    "id": 4,
+    "name": "Cinthia",
+    "photo": "https://png.pngtree.com/png-vector/20190321/ourlarge/pngtree-vector-users-icon-png-image_856952.jpg",
+    "email": "Cinthia@gamil.com"
+  }
+]
