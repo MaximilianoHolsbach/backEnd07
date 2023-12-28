@@ -19,5 +19,12 @@
     "photo": "https://png.pngtree.com/png-vector/20190321/ourlarge/pngtree-vector-users-icon-png-image_856952.jpg",
     "price": 70,
     "stock": 50
+  },
+  {
+    "id": 5,
+    "title": "TONER PRO8100",
+    "photo": "https://png.pngtree.com/png-vector/20190321/ourlarge/pngtree-vector-users-icon-png-image_856952.jpg",
+    "price": 1000,
+    "stock": 50
   }
 ]
